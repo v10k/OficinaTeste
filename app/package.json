@@ -1,0 +1,49 @@
+{
+  "name": "Oficina",
+  "version": "1.0.0",
+  "description": "Oficina",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "",
+    ""
+  ],
+  "author": "Hálex Dyllan",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-node5": "^1.1.1",
+    "babel-core": "^6.26.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^2.1.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.4",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-git": "^2.5.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "jquery": "^3.3.1",
+    "normalize.css": "^7.0.0",
+    "owl.carousel": "^2.3.4"
+  }
+}

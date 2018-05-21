@@ -1,0 +1,21 @@
+Instalar o NodeJS
+node -v 
+npm -v 
+
+Instalar o Gulp
+npm i gulp-cli
+gulp -v
+
+Comando Git
+git fetch
+git clone 
+git status
+git commit -m
+git merge 
+git stash
+git add .
+git add --all
+git config --global user.name
+git config --global user.email
+git pull
+git push

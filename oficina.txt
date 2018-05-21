@@ -1,0 +1,19 @@
+pull request //pede permissão ao dono do repositório para subir os arquivos na branch master
+
+git checkout -b // muda o banch atual e o cria se não existir
+
+git status // mostra o status atual do projeto
+
+git commit // comenta as modificações feitas no projeto
+
+sempre de PULL 
+
+git pull // atualiza seu projeto na maquina local
+
+git push // envia o que fez para o repositório na nuvem
+
+npm i // instala as dependencias
+
+npm --global gulp-cli //instala globalmente o gulp na maquina
+
+gulp // inicializa o gulp 
